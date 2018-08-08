@@ -21,10 +21,10 @@ produce the output image (specified in the makefile to be "outimage.png"), as we
 as revert the repo to its original state, you can use the makefile targets "all" and
 "clean". 
 
-'''
+```
 make all
 ...
 make clean
-'''
+```
 
 
