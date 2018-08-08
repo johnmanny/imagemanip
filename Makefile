@@ -1,6 +1,6 @@
 # ---original makefile given from assignment
 # ---modifications are the addition of the targets
-#	all, png, try, test, grade, and modified clean
+#	all, png, try, orgDirectories, clean, and prefix specifications for directories
 
 SRC=main.C image.C sink.C source.C PNMreader.C PNMwriter.C filter.C logging.C
 OBJ=$(SRC:.C=.o)
