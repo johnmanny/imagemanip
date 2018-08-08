@@ -10,8 +10,8 @@ code, unless explicitly stated in a comment, is original and was
 written throughout the 2018 spring term of UO's C++ class. 
 
 ## Description:
-This program features exception handling and a highly hierarchical, 
-inheritance-based OOP design for inputing a PNM image file, performing 
+This program features exception handling, demand-driven execution, and a highly 
+hierarchical, inheritance-based, OOP design for inputing a PNM image files, performing
 manipulations, and outputting a PNM image file. 
 
 ## Instructions:
